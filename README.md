@@ -1,4 +1,5 @@
 # usgs-quakes-mcp
+[![smithery badge](https://smithery.ai/badge/@blake365/usgs-quakes-mcp)](https://smithery.ai/server/@blake365/usgs-quakes-mcp)
 Claude MCP server for USGS Quakes API
 
 An MCP server implementation for providing access to the [USGS Quakes API](https://earthquake.usgs.gov/fdsnws/event/1/) within [Claude Desktop](https://claude.ai/download).
@@ -92,6 +93,15 @@ This was a relatively minor earthquake, but notable for Florida which rarely exp
 
 ## Installation
 
+### Installing via Smithery
+
+To install USGS Earthquake Data for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@blake365/usgs-quakes-mcp):
+
+```bash
+npx -y @smithery/cli install @blake365/usgs-quakes-mcp --client claude
+```
+
+### Manual Installation
 Installing this might be tricky if you're not familiar with Node.js and the MCP protocol.
 
 1. Install [Node.js](https://nodejs.org/en/download)
