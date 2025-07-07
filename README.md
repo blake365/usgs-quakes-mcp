@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/blake365-usgs-quakes-mcp-badge.png)](https://mseep.ai/app/blake365-usgs-quakes-mcp)
+
 # usgs-quakes-mcp
 [![smithery badge](https://smithery.ai/badge/@blake365/usgs-quakes-mcp)](https://smithery.ai/server/@blake365/usgs-quakes-mcp)
 Claude MCP server for USGS Quakes API
